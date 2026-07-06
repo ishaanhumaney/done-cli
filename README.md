@@ -30,6 +30,7 @@ If you prefer running it locally without git, download main.py and run:
   python main.py
 
 ## Project Structure
+```bash
 done-cli/
 ├── .github/
 │   └── workflows/
@@ -37,7 +38,7 @@ done-cli/
 ├── .gitignore          # Keeps build caches and local state tracking out of source control
 ├── README.md           # Documentation
 └── main.py             # Main interactive application loop and state logic
-
+```
 ## Project Roadmap
 [ ] Implement query filters to view completed vs. pending tasks separately.
 
